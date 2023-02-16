@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfazzib&label=Profile%20views&color=0e75b6&style=flat" alt="lucasfazzib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="hhttps://github-profile-trophy.vercel.app/?username=lucasfazzib" alt="lucasfazzib" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasfazzib" alt="lucasfazzib" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lucas_fazzi" target="blank"><img src="https://img.shields.io/twitter/follow/lucas_fazzi?logo=twitter&style=for-the-badge" alt="lucas_fazzi" /></a> </p>
 
