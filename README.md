@@ -15,9 +15,9 @@
 
 **Working**
 
-🚀 I use daily: <code>.py</code>, <code>.tf</code>, <code>.yml</code>, <code>.sh</code>
+🚀 I use daily: <code>.py</code>, <code>.sh</code>, <code>sql</code>
 
-🚀 My currently Stack: <code> Databricks, AWS Glue, AWS Crawlers, Databricks, Spark, Delta Lakehouse, RDS, Redshift.</code>
+🚀 My currently Stack: <code> Databricks, AWS Glue, AWS Crawlers, Databricks, Spark, Delta Lakehouse, RDS</code>
 
 ✅ Learning every day about **Data Engineering**
 
