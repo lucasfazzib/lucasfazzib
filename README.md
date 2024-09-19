@@ -9,15 +9,15 @@
 
 **Bio**
 
-- 👷‍♂️ I’m currently working on [Accenture](https://www.accenture.com/br-pt)
+- 👷‍♂️ I’m currently working on WebCreek as Senior Data Engineer.
 
-- 🔥 Interested in  **Data Engineering** and **CyberSecurity**
+- 🔥 Interested in  **Data Engineering** 
 
 **Working**
 
 🚀 I use daily: <code>.py</code>, <code>.sh</code>, <code>sql</code>
 
-🚀 My currently Stack: <code> Databricks, AWS Glue, AWS Crawlers, Databricks, Spark, Delta Lakehouse, RDS</code>
+🚀 My currently Stack: <code> Datafactory, Synapse, Databricks, AWS Glue, AWS Crawlers, Databricks, Spark, Delta Lakehouse, RDS</code>
 
 ✅ Learning every day about **Data Engineering**
 
@@ -32,7 +32,7 @@
 
 - 📝 Know about my experiences on [https://www.linkedin.com/in/lucas-fazzi/](https://www.linkedin.com/in/lucas-fazzi/)
 
-- 💬 Ask me about **Data Engineering, Data Science, Python, SQL, dbt, Snowflake, Redshift.**
+- 💬 Ask me about **Data Engineering, Python, SQL, dbt, Snowflake.**
 
 - 📫 How to reach me **lucasfazzi@hotmail.com**
 
