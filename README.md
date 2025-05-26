@@ -8,8 +8,6 @@
 
 **Bio**
 
-- 👷‍♂️ I’m currently working on WebCreek as Senior Data Engineer.
-
 - 🔥 Interested in  **Data Engineering** 
 
 **Working**
