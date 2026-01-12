@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Lucas Fazzi</h1>
 <h3 align="center">Data Engineer</h3>
-**Bio**
 
 - 🔥 Interested in  **Data Engineering** 
 
