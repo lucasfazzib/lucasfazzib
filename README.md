@@ -1,32 +1,51 @@
-<h1 align="center">Hi, I'm Lucas Fazzi</h1>
-<h3 align="center">Data Engineer</h3>
+<h1 align="center">Hi, I'm Lucas Fazzi 👋</h1>
+<h3 align="center">Senior Data Engineer | Databricks | Lakehouse | Data & AI Platforms</h3>
 
-- 🔥 Interested in  **Data Engineering** 
+I’m a Senior Data Engineer focused on building scalable data platforms, production-grade lakehouse architectures and data products that support analytics and AI use cases.
 
-**Working**
+Currently working heavily with Azure and Databricks, designing and evolving end-to-end pipelines, medallion architectures and governed data products used by downstream analytics and AI applications.
 
-🚀 I use daily: <code>.py</code>, <code>.sh</code>, <code>sql</code>
+### 🚀 What I work with
 
-🚀 My currently Stack: <code> Datafactory, Synapse, Databricks, AWS Glue, AWS Crawlers, Databricks, Spark, Delta Lakehouse, RDS</code>
+- **Data Engineering:** Python, SQL, PySpark, Spark
+- **Lakehouse:** Databricks, Delta Lake, Unity Catalog, Medallion Architecture
+- **Cloud:** Azure, AWS
+- **Orchestration:** Azure Data Factory, Databricks Workflows / Lakeflow
+- **Data Integration:** REST API, Bulk API, CDC and event-driven ingestion
+- **Data & AI:** RAG pipelines, document extraction, semantic layers and Databricks Genie
+- **DevOps:** Git, Azure DevOps, CI/CD, Databricks Asset Bundles
+- **Data Modeling & Quality:** ETL/ELT, dimensional modeling, deduplication, incremental processing and data quality
 
-✅ Learning every day about **Data Engineering**
+### 🔭 Current interests
 
-✅ Ping me about Data Engineering, Databricks, Python, Spark, DeltaLakehouse, ETL.
+I’m currently exploring and building around:
 
+- Real-time and near-real-time data ingestion
+- CDC and Pub/Sub architectures
+- Streaming Lakehouse patterns
+- Data platforms for AI agents
+- Document intelligence and RAG
+- Databricks governance and platform engineering
 
-**Community**
+### 🤝 Collaboration
 
-- 👯 I’m looking to collaborate on **Data Architecture, Data Platform and everything that involves data engineering and analytics.**
+I’m always interested in collaborating on:
 
-- 👨‍💻 All of my projects are available at [https://github.com/lucasfazzib](https://github.com/lucasfazzib)
+**Data Engineering • Data Architecture • Lakehouse • Databricks • Data & AI Platforms**
 
-- 📝 Know about my experiences on [https://www.linkedin.com/in/lucas-fazzi/](https://www.linkedin.com/in/lucas-fazzi/)
+### 📫 Connect with me
 
-- 💬 Ask me about **Data Engineering, Python, SQL, dbt, Snowflake.**
-
-- 📫 How to reach me **lucasfazzi@hotmail.com**
+- LinkedIn: [linkedin.com/in/lucas-fazzi](https://www.linkedin.com/in/lucas-fazzi/)
+- GitHub: [github.com/lucasfazzib](https://github.com/lucasfazzib)
+- Email: **lucasfazzi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-fazzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-fazzi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-fazzi/" target="blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="Lucas Fazzi LinkedIn"
+height="30"
+width="40" />
+</a>
 </p>
