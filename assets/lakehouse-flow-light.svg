@@ -1,0 +1,74 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">From source systems to AI-ready data products</title>
+<desc id="desc">Sources such as Salesforce CDC, Postgres, APIs and documents flow through ingestion (Pub/Sub, Kafka, Debezium, Auto Loader, dlt, ADF) into a Delta Lake medallion lakehouse (bronze, silver, gold) governed by Unity Catalog, which serves analytics, semantic layers, RAG pipelines and AI agents.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .h1 { fill: #1f2328; font-size: 26px; font-weight: 600; letter-spacing: -0.4px; }
+  .sub { fill: #59636e; font-size: 15px; }
+  .col { fill: #59636e; font-size: 12px; font-weight: 600; letter-spacing: 2px; }
+  .node { fill: #1f2328; font-size: 14px; font-weight: 500; }
+  .med { fill: #1f2328; font-size: 17px; font-weight: 600; }
+  .cap { fill: #59636e; font-size: 12px; }
+  .lake { fill: #1f2328; font-size: 13px; font-weight: 600; }
+  .lake2 { fill: #59636e; font-size: 12px; }
+  .flow { fill: none; stroke: #8c959f; stroke-width: 1.8; stroke-dasharray: 5 7;
+           animation: flow 1.6s linear infinite; }
+  .hot { stroke: #e8472b; stroke-width: 2.2; }
+  @keyframes flow { to { stroke-dashoffset: -24; } }
+  .bob { animation: bob 4.5s ease-in-out infinite; }
+  @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+  .glow { animation: glow 2.8s ease-in-out infinite; }
+  @keyframes glow { 0%, 100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .flow, .bob, .glow { animation: none; } }
+</style>
+<rect x="0.75" y="0.75" width="1198.5" height="398.5" rx="20" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="30" y="54" class="h1">From source systems to AI-ready data products</text>
+<text x="31" y="82" class="sub">The kind of platform I design, build and run: governed, incremental, recoverable.</text>
+<text x="30" y="132" class="col">SOURCES</text>
+<text x="280" y="132" class="col">INGEST</text>
+<text x="540" y="132" class="col">LAKEHOUSE</text>
+<text x="980" y="132" class="col">SERVE</text>
+<g>
+<path class="flow" d="M220 172.0 L280 172.0"/>
+<path class="flow" d="M470 172.0 C513.0 172.0 513.0 234.0 556 234.0"/>
+<path class="flow hot" d="M904 234.0 C942.0 234.0 942.0 172.0 980 172.0"/>
+<path class="flow" d="M220 228.0 L280 228.0"/>
+<path class="flow" d="M470 228.0 C513.0 228.0 513.0 234.0 556 234.0"/>
+<path class="flow hot" d="M904 234.0 C942.0 234.0 942.0 228.0 980 228.0"/>
+<path class="flow" d="M220 284.0 L280 284.0"/>
+<path class="flow" d="M470 284.0 C513.0 284.0 513.0 234.0 556 234.0"/>
+<path class="flow hot" d="M904 234.0 C942.0 234.0 942.0 284.0 980 284.0"/>
+<path class="flow" d="M220 340.0 L280 340.0"/>
+<path class="flow" d="M470 340.0 C513.0 340.0 513.0 234.0 556 234.0"/>
+<path class="flow hot" d="M904 234.0 C942.0 234.0 942.0 340.0 980 340.0"/>
+<path class="flow hot" d="M660 234.0 L678 234.0"/>
+<path class="flow hot" d="M782 234.0 L800 234.0"/>
+</g>
+<rect x="540" y="148" width="380" height="218" rx="16" fill="#ffffff" stroke="#0969da" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="6 5"/>
+<rect x="556" y="168" width="104" height="132" rx="12" fill="#cd7f32" fill-opacity="0.16" stroke="#cd7f32" stroke-width="2"/>
+<circle cx="608.0" cy="206" r="11" fill="#cd7f32"/>
+<text x="608.0" y="250" text-anchor="middle" class="med">Bronze</text>
+<text x="608.0" y="272" text-anchor="middle" class="cap">raw history</text>
+<rect x="678" y="168" width="104" height="132" rx="12" fill="#8e9aa6" fill-opacity="0.16" stroke="#8e9aa6" stroke-width="2"/>
+<circle cx="730.0" cy="206" r="11" fill="#8e9aa6"/>
+<text x="730.0" y="250" text-anchor="middle" class="med">Silver</text>
+<text x="730.0" y="272" text-anchor="middle" class="cap">clean · merged</text>
+<rect class="glow" x="800" y="168" width="104" height="132" rx="12" fill="#d4a72c" fill-opacity="0.16" stroke="#d4a72c" stroke-width="2"/>
+<circle cx="852.0" cy="206" r="11" fill="#d4a72c"/>
+<text x="852.0" y="250" text-anchor="middle" class="med">Gold</text>
+<text x="852.0" y="272" text-anchor="middle" class="cap">data products</text>
+<text x="730.0" y="330" text-anchor="middle" class="lake">Delta Lake · Unity Catalog</text>
+<text x="730.0" y="350" text-anchor="middle" class="lake2">Lakeflow · Workflows · Asset Bundles · CI/CD</text>
+<g class="bob" style="animation-delay:-0.0s"><rect x="30" y="150" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="125.0" y="177" text-anchor="middle" class="node">Salesforce CDC</text></g>
+<g class="bob" style="animation-delay:-1.5s"><rect x="280" y="150" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="375.0" y="177" text-anchor="middle" class="node">Pub/Sub · Kafka</text></g>
+<g class="bob" style="animation-delay:-3.0s"><rect x="980" y="150" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="1075.0" y="177" text-anchor="middle" class="node">Analytics &amp; BI</text></g>
+<g class="bob" style="animation-delay:-0.6s"><rect x="30" y="206" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="125.0" y="233" text-anchor="middle" class="node">Postgres / OLTP</text></g>
+<g class="bob" style="animation-delay:-2.1s"><rect x="280" y="206" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="375.0" y="233" text-anchor="middle" class="node">Debezium CDC</text></g>
+<g class="bob" style="animation-delay:-3.6s"><rect x="980" y="206" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="1075.0" y="233" text-anchor="middle" class="node">Semantic layer · Genie</text></g>
+<g class="bob" style="animation-delay:-1.2s"><rect x="30" y="262" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="125.0" y="289" text-anchor="middle" class="node">REST &amp; Bulk APIs</text></g>
+<g class="bob" style="animation-delay:-2.7s"><rect x="280" y="262" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="375.0" y="289" text-anchor="middle" class="node">Auto Loader</text></g>
+<g class="bob" style="animation-delay:-4.2s"><rect x="980" y="262" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="1075.0" y="289" text-anchor="middle" class="node">RAG pipelines</text></g>
+<g class="bob" style="animation-delay:-1.7999999999999998s"><rect x="30" y="318" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="125.0" y="345" text-anchor="middle" class="node">Documents &amp; files</text></g>
+<g class="bob" style="animation-delay:-3.3s"><rect x="280" y="318" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="375.0" y="345" text-anchor="middle" class="node">dlt · ADF</text></g>
+<g class="bob" style="animation-delay:-4.8s"><rect x="980" y="318" width="190" height="44" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><text x="1075.0" y="345" text-anchor="middle" class="node">AI agents</text></g>
+</svg>
